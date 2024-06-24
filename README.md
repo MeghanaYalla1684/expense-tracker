@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/%20-mongoose-%231791ff" alt="Mongoose">
   <img src="https://img.shields.io/badge/%20-nodejs-%231791ff" alt="Node.js">
   <img src="https://img.shields.io/badge/%20-tailwindcss-%231791ff" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/%20-tailwindcss-%231791ff" alt="Ant Design">
+  <img src="https://img.shields.io/badge/%20-antdesign-%231791ff" alt="Ant Design">
   <br><br>
 </div>
 
