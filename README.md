@@ -24,9 +24,10 @@ Check out the live demo: [Expense Tracker](https://odd-cyan-gharial-sock.cyclic.
 
 ### 👨‍💻 How to Run:
 
-Clone this repository using Git:
-```bash
-git clone https://github.com/divyanshrampal/expense-tracker
+1. Clone this repository using Git:
+   ```bash
+   git clone https://github.com/divyanshrampal/expense-tracker
+
 OR
 
 Download the repository as a ZIP file and extract its contents.
