@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br>
   <h1> Expense Manager </h1>
   <strong> Technologies Used</strong>
@@ -57,7 +57,7 @@ Download the repository as a ZIP file and extract its contents.
 
 <p align='center'>
     <b>Made by </b>
-    <a href="https://github.com/divyanshrampal">Meghana Yalla</a>
-</p>
+    <a href="https://github.com/divyanshrampal">Meghana Yalla</a> -->
+<!-- </p> -->
 
    
